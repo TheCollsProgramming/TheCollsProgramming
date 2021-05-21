@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheCollsProgramming; Civil Engineer, starting in the amazing Computer Science's world - Perfectionist, Self-Taught.
+- 👀 I’m interested in Data Science, Machine Learning, AI.
+- 🌱 I’m currently Mastering Python.
